@@ -1,4 +1,4 @@
-# Globalize Text LangChain-Streamlit
+# Globalize Text LangChain
 
 Convert to Email with langchain
 
